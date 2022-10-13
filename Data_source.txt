@@ -1,0 +1,1 @@
+For car resell price prediction we used kaggle data.
